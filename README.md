@@ -1,5 +1,7 @@
-# Getting Started with Create React App
+# River Arithmetic Progression
 
+川の流量測定時に測定地点を計算してくれるWebアプリ
+create-react-appを基に制作しました。
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
